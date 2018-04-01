@@ -16,4 +16,4 @@ There are two generative models facing neck to neck in the data generation busin
 
 In this post, we will look at the intuition of VAE model and its implementation in Keras.
 
-<h2 class="section-heading">VAE: Formulation and Intuition</h2>
+## VAE: Formulation and Intuition
