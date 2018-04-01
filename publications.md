@@ -35,14 +35,14 @@ contribution with international impact in the field of human interaction with, a
 		  <li><b>Jianlong Zhou</b> and F. Chen. DecisionMind: Revealing Human 
 Cognition States in Data Analytics-Driven Decision Making with a 
 Multimodal Interface. Journal on Multimodal User Interfaces, (Springer),
- 2017. (<a href="https://csjzhou.github.io/homepage/papers/DecisionMind_JMUI2017.pdf">PDF</a>)</li>
+ 2017. (<a href="./papers/DecisionMind_JMUI2017.pdf">PDF</a>)</li>
 		  <li><b>Jianlong Zhou</b>, S. Z. Arshad S. Luo and F. Chen. Effects 
 of Uncertainty and Cognitive Load on User Trust in Predictive Decision 
 Making. the 16th IFIP TC.13 International Conference on Human-Computer 
 Interaction (INTERACT 2017), 2017.(Reviewer’s Choice Award), (“The Brian
  Shackel Award” in recognition of the most outstanding contribution with
  international impact in the field of human interaction with, and human 
-use of, computers and information technology). (<a href="https://csjzhou.github.io/homepage/papers/INTERACT2017_Effects_Trust.pdf">PDF</a>)</li>
+use of, computers and information technology). (<a href="./papers/INTERACT2017_Effects_Trust.pdf">PDF</a>)</li>
 		  <li>Syed Z. Arshad, <b>Jianlong Zhou</b>, Shlomo Berkovsky, and Fang
  Chen. Human-In-The-Loop Machine Learning with Intelligent Multimodal 
 Interfaces. ICML2017 Workshop on Human-In-The-Loop Machine Learning, 
