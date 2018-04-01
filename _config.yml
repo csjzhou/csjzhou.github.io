@@ -17,20 +17,17 @@ baseurl: ""
 title: csjzhou.github.io
 
 # Short description of your site
-description: "A personal blog about PowerShell, Automation and more."
+description: "A personal blog"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Blog:
-    - Posts: "blog"
-    - Tags: "tags"
-  Resources:
-    - Powershell: "powershell-resources"
-  About:
-    - Me: "aboutme"
-    - This Blog: "aboutthisblog"
+  Home: "index"
+  Research: "research"
+  Publications: "publications"
+  Links: "links"
+  Blog: "blog"
 
 
 # --- Google custom search config --- #
@@ -83,9 +80,9 @@ author:
 social-network-links:
   github: csjzhou
   #stackoverflow: "5222635/ocram85"
-  twitter: tar_honar
-  email: "marco.blessing@googlemail.com"
-  linkedin: marco-blessing-884642109
+  #twitter: 
+  email: "email@example.com"
+  #linkedin: marco-blessing-884642109
   rss: true
 #  facebook: daattali
 #  reddit: yourname
@@ -135,7 +132,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
