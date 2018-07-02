@@ -26,8 +26,23 @@ Australian Technology Park
 Tel: +61 2 9490 5723  
 Email: jianlong.zhou [at] data61.csiro.au  
 
+<!----
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="http://" role="button" class="btn btn-primary">Python</a> 
 <a href="http://" role="button" class="btn btn-primary">Book</a> 
+</div>
+-->
+ 
+ <div style="width:750px; height:120px; overflow:scroll; overflow-x: scroll; overflow-y: hidden;">
+       <div style="width:1000px;">
+      <img style=" float:center; display:inline"  src="/img/tml_book.jpg" width="120" height="160" alt="tml_book" />
+      <img style=" float:center; display:inline"  src="/img/clm_book.jpg" width="120" height="160" alt="clm_book" />
+      <img style=" float:center; display:inline"  src="amazon_cover.jpg" width="120" height="160" alt="vis_book" />
+ </div>
+
+
+    
+ 
+ 
 </div>
