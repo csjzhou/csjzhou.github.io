@@ -34,7 +34,7 @@ Email: jianlong.zhou [at] data61.csiro.au
 </div>
 -->
  
- <div style="width:750px; height:120px; overflow:scroll; overflow-x: scroll; overflow-y: hidden;">
+ <div style="width:450px; height:180px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
        <div style="width:1000px;">
       <img style=" float:center; display:inline"  src="/img/tml_book.jpg" width="120" height="160" alt="tml_book" />
       <img style=" float:center; display:inline"  src="/img/clm_book.jpg" width="120" height="160" alt="clm_book" />
