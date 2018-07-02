@@ -325,7 +325,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
           <h3>Published Books Information </h3>
 		<div id="feature">
 			 <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
-			 <img src="/img/tml_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
+			 <img src="/img/tml_book.jpg" class="alignleft" alt="tml_book.jpg" width="120" height="160"></a>
 			 <h4>Human and Machine Learning:Visible, Explainable, Trustworthy and Transparent </h4>
 			 <p>
 			  <b>Jianlong Zhou</b> and Fang Chen.<br> 
