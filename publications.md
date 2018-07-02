@@ -323,7 +323,19 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
           </ol>
 
           <h3>Published Books Information </h3>
-			<div id="feature">
+		<div id="feature">
+			 <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
+			 <img src="/img/tml_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
+			 <h4>Human and Machine Learning:Visible, Explainable, Trustworthy and Transparent </h4>
+			 <p>
+			  <b>Jianlong Zhou</b> and Fang Chen.<br> 
+				Springer, 2018, 482pp. ISBN: 978-3-319-90402-0.<br>
+			    Available on <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">Springer</a>.
+			  </p>
+			  <hr>
+                </div>
+			
+		<div id="feature">
 	         <a href="http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1">
               <img src="/img/clm_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
               <h4>Robust Multimodal Cognitive Load Measurement </h4>
