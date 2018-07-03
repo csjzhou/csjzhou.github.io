@@ -29,9 +29,12 @@ published: true
              width="200" height="300" alt="Reviews' Choice Award" hspace="20" /></a>
  </div>
 --->
- 
->[![BSA](/img/INTERACT2017_Award_Brian_Shackel.jpg){:height="200px" width="250px"}](http://ifip-tc13.org/awards/)
->[![RCA](/img/INTERACT2017_Award_small.jpg){:height="200px" width="250px"}](/img/INTERACT2017_Award_small.jpg)
+---------- 
+[![BSA](/img/INTERACT2017_Award_Brian_Shackel.jpg){:height="200px" width="250px"}](http://ifip-tc13.org/awards/)
+----------
+----------
+[![RCA](/img/INTERACT2017_Award_small.jpg){:height="200px" width="250px"}](/img/INTERACT2017_Award_small.jpg)
+----------
 
 ----
 
