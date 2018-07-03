@@ -7,7 +7,7 @@ published: true
 
 
 ----
-### Research Interests
+## Research Interests
 - Explainable AI
 - Human and Machine Learning
 - Human Factors (Cognitive Load, Trust, Confidence)
@@ -20,7 +20,7 @@ published: true
   {% for post in site.tags.research-project %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <h2 class="post-title">{{ post.title }}</h2>
+      <h3 class="post-title">{{ post.title }}</h3>
 
       {% if post.subtitle %}
       <h3 class="post-subtitle">
