@@ -14,7 +14,19 @@ published: true
 - Machine Learning
 - Visual Analytics
 - Augmented Reality
-
+----
+<div style="width:500px; height:180px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
+       <div style="width:1000px;">
+      <a href="http://ifip-tc13.org/awards/">
+        <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_The Brian Shackel Award.jpg" 
+             title="The Brian Shackel Award" 
+             width="100" height="80" alt="best paper award" /></a>
+      <a href="/img/INTERACT2017_Award_small.jpg">
+        <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_small.jpg" 
+             title="Reviewers' Choice Award"
+             width="100" height="80" alt="Reviews' Choice Award" /></a>
+ </div>
+----
 
 <div class="posts-list">
   {% for post in site.tags.research-project %}
