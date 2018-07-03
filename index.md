@@ -35,7 +35,6 @@ Email: jianlong.zhou [at] data61.csiro.au
 -->
  
  <div style="width:500px; height:180px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
-       <div style="width:1000px;">
       <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
         <img style=" float:center; display:inline"  src="/img/tml_book.jpg" 
              title="Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent" 
