@@ -17,6 +17,7 @@ published: true
 
 
 ----
+<!---
 <div style="width:600px; height:400px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
       <a href="http://ifip-tc13.org/awards/">
         <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_The Brian Shackel Award.jpg" 
@@ -27,6 +28,11 @@ published: true
              title="Reviewers' Choice Award"
              width="200" height="300" alt="Reviews' Choice Award" hspace="20" /></a>
  </div>
+--->
+ 
+[![BSA](/img//img/INTERACT2017_Award_Brian_Shackel.jpg){:height="200px" width="250px"}](http://ifip-tc13.org/awards/)
+![RCA](/img/INTERACT2017_Award_small.jpg){:height="300px" width="200px"}
+ 
 ----
 
 
