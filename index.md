@@ -49,7 +49,7 @@ Email: jianlong.zhou [at] data61.csiro.au
              title="Gaining Insights Into Volumetric Data Visualization: 
                     A Semi-Automatic Transfer Function Generation Approach Using Contour Tree Analyses "
              width="120" height="160" alt="vis_book" /></a>
-      <a href="http://www.sinolib.com/138536492064277.html">
+      <a href="http://www.scutpress.com/book-876.htm">
         <img style=" float:center; display:inline"  src="/img/cgbook.jpg" 
              title="计算机图形学理论与OpenGL编程实践 (Computer Graphics and OpenGL Programming)"
              width="120" height="160" alt="cg_book" /></a>
