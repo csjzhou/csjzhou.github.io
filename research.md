@@ -21,11 +21,11 @@ published: true
       <a href="http://ifip-tc13.org/awards/">
         <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_The Brian Shackel Award.jpg" 
              title="The Brian Shackel Award" 
-             width="250" height="200" alt="best paper award" /></a>
+             width="250" height="200" alt="best paper award" hspace="20" /></a>
       <a href="/img/INTERACT2017_Award_small.jpg">
         <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_small.jpg" 
              title="Reviewers' Choice Award"
-             width="200" height="300" alt="Reviews' Choice Award" /></a>
+             width="200" height="300" alt="Reviews' Choice Award" hspace="20" /></a>
  </div>
 ----
 
