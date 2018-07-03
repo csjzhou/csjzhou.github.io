@@ -32,7 +32,7 @@ published: true
  
 [![BSA](/img/INTERACT2017_Award_Brian_Shackel.jpg){:height="200px" width="250px"}](http://ifip-tc13.org/awards/)
 [![RCA](/img/INTERACT2017_Award_small.jpg){:height="200px" width="250px"}](/img/INTERACT2017_Award_small.jpg)
-======
+----
 
 
 
