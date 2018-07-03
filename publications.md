@@ -254,7 +254,7 @@ Applied Perception in Graphics and Visualization (APGV2005), August
 
 		
         <h3>Augmented Reality </h3>
-        <ol start="53">
+        <ol start="54">
           <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland 
 Menassa, Anthony Farrant and Andrew Sansome. In-Situ Support for 
 Automotive Manufacturing Using Spatial Augmented Reality. International 
@@ -284,7 +284,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
           </ol>
 		  
 		<h3>Published Books </h3>
-        <ol start="57">
+        <ol start="58">
 		  <li>Fang Chen, <b>Jianlong Zhou</b>, Yang Wang, Kun Yu, Syed Z. Arshad, Ahmad Khawaji, and Dan Conway. Robust Multimodal Cognitive Load Measurement. 
 		  Springer, 2016, 254pp. ISBN: 978-3-319-31698-7. </li>
           <li><b>Jianlong Zhou</b>. Gaining Insights Into Volumetric Data Visualization:  A Semi-Automatic Transfer Function Generation Approach Using
@@ -298,7 +298,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
         </ol>
 		
           <h3>Technical Reports </h3>
-          <ol start="62">
+          <ol start="63">
             <li><b>Jianlong Zhou</b> and Masahiro Takatsuka. Contour tree controlled automatic transfer function generation. The University of Sydney’s
               Research Conversazione 2009, October 2009, Sydney, Australia.
 	           (<a href="http://sydney.edu.au/engineering/it/research/conversazione_2009/zhouj.pdf">PDF</a>)</li>
