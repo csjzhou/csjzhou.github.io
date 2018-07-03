@@ -361,13 +361,13 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
                 </div>
 
                 <div id="feature">
-	               <a href="http://www.sinolib.com/138536492064277.html">
+	               <a href="http://www.scutpress.com/book-876.htm">
                     <img src="/img/cgbook.jpg" class="alignleft" alt="cgbook.jpg" width="120" height="160"></a>
                     <h4>计算机图形学理论与OpenGL编程实践.(Computer Graphics and OpenGL Programming) </h4>
                     <p>
                       周建龙, 肖春 编著. (Jianlong Zhou and Chun Xiao) <br>
                         华南理工大学出版社, 357页, ISBN: 7562326630, 2007年. (South China University of Technology Press)<br>
-                          <a href="http://www.sinolib.com/138536492064277.html">中国图书馆网. </a>
+                          <a href="http://www.scutpress.com/book-876.htm">华南理工大学出版社. </a>
                         </p>
                         <hr>
                       </div>
