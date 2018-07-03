@@ -7,7 +7,7 @@ published: true
 
 
 ----
-**Research Interests:**
+### Research Interests
 - Explainable AI
 - Human and Machine Learning
 - Human Factors (Cognitive Load, Trust, Confidence)
