@@ -52,9 +52,3 @@ Email: jianlong.zhou [at] data61.csiro.au
              title="计算机图形学理论与OpenGL编程实践 (Computer Graphics and OpenGL Programming)"
              width="120" height="160" alt="cg_book" /></a>
  </div>
-
-
-    
- 
- 
-</div>
