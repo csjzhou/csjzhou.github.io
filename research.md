@@ -16,6 +16,7 @@ published: true
 - Augmented Reality
 
 ----
+
 <div style="width:500px; height:180px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
        <div style="width:1000px;">
       <a href="http://ifip-tc13.org/awards/">
@@ -25,27 +26,26 @@ published: true
       <a href="/img/INTERACT2017_Award_small.jpg">
         <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_small.jpg" 
              title="Reviewers' Choice Award"
-             width="160" height="200" alt="Reviews' Choice Award" /></a>
+             width="160" height="220" alt="Reviews' Choice Award" /></a>
  </div>
+
 ----
+
 
 <div class="posts-list">
   {% for post in site.tags.research-project %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h3 class="post-title">{{ post.title }}</h3>
-
       {% if post.subtitle %}
       <h3 class="post-subtitle">
         {{ post.subtitle }}
       </h3>
       {% endif %}
     </a>
-
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
@@ -62,7 +62,6 @@ published: true
         {% endif %}
       </div>
     </div>
-
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
