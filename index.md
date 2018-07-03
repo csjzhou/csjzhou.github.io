@@ -55,7 +55,7 @@ Email: jianlong.zhou [at] data61.csiro.au
  </div>
 -->
 
-![tml](/img/tml_book.jpg){:height="24px" width="48px"}
-![clm | 120x160](/img/clm_book.jpg)
-![vis](/img/amazon_cover.jpg | width=100)
-![cg](/img/cgbook.jpg =120x160)
+![tml](/img/tml_book.jpg){:height="160px" width="120px"}
+![clm](/img/clm_book.jpg){:height="160px" width="120px"}
+![vis](/img/amazon_cover.jpg){:height="160px" width="120px"}
+![cg](/img/cgbook.jpg){:height="160px" width="120px"}
