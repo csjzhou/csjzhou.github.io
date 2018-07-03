@@ -56,6 +56,6 @@ Email: jianlong.zhou [at] data61.csiro.au
 -->
 
 [![tml](/img/tml_book.jpg){:height="160px" width="120px"}](https://link.springer.com/book/10.1007%2F978-3-319-90403-0)
-![clm](/img/clm_book.jpg){:height="160px" width="120px"}
-![vis](/img/amazon_cover.jpg){:height="160px" width="120px"}
-![cg](/img/cgbook.jpg){:height="160px" width="120px"}
+[![clm](/img/clm_book.jpg){:height="160px" width="120px"}](http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1)
+[![vis](/img/amazon_cover.jpg){:height="160px" width="120px"}](http://www.amazon.com/Gaining-Insights-Into-Volumetric-Visualization/dp/3659134848/ref=sr_1_1?ie=UTF8&amp;qid=1338002123&amp;sr=8-1)
+[![cg](/img/cgbook.jpg){:height="160px" width="120px"}](http://www.scutpress.com/book-876.htm)
