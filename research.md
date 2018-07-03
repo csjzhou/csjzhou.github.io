@@ -18,7 +18,6 @@ published: true
 ----
 
 <div style="width:500px; height:180px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
-       <div style="width:1000px;">
       <a href="http://ifip-tc13.org/awards/">
         <img style=" float:center; display:inline"  src="/img/INTERACT2017_Award_The Brian Shackel Award.jpg" 
              title="The Brian Shackel Award" 
@@ -29,7 +28,6 @@ published: true
              width="160" height="220" alt="Reviews' Choice Award" /></a>
  </div>
 
-----
 
 
 <div class="posts-list">
