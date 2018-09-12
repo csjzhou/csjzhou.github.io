@@ -10,10 +10,9 @@ published: true
 ## Research Interests
 - Explainable AI
 - Human and Machine Learning
-- Cognitive and Emontional Computing
+- Cognitive and Emontional Computing (Eye-tracking, GSR, BVP)
 - Machine Learning
 - Visual Analytics
-- Augmented Reality
 
 
 ----
