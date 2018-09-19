@@ -32,7 +32,7 @@ title: Links
 		  <li> Aerosolve: Machine learning for humans. <a href="http://nerds.airbnb.com/aerosolve/"> Link</a> </li>
 		  <li> Tutorial of TensorFlow and deep learning. <a href="https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"> Link</a> </li>
 		<li>An executives guide to AI. <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"> Link</a></li>
-		</i>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
+		<li>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
         </ol>
         
         <h3>Image Processing and Computer Vision</h3>
@@ -170,6 +170,7 @@ title: Links
         <ol>
           <li> How to write a cover letter. <a href="http://lifehacker.com/5880545/how-to-write-a-cover-letter-that-employers-will-actually-read"> Link</a> </li>
 		  <li> Blank screen after installing nvidia restricted driver. <a href="http://askubuntu.com/questions/41681/blank-screen-after-installing-nvidia-restricted-driver"> Link</a> </li>
+	  <li>How to create Google sites pages. <a href="https://sites.google.com/tcsnc.org/new-gsites-ncties17/resources?authuser=0"> Link</a></li>
         </ol>
 		
 
