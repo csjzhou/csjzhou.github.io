@@ -33,6 +33,7 @@ title: Links
 		  <li> Tutorial of TensorFlow and deep learning. <a href="https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"> Link</a> </li>
 		<li>An executives guide to AI. <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"> Link</a></li>
 		<li>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
+		<li>ELI5: Explain machine learning predictions. <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
         </ol>
         
         <h3>Image Processing and Computer Vision</h3>
