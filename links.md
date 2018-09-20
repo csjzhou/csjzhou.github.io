@@ -33,11 +33,17 @@ title: Links
 		  <li> Tutorial of TensorFlow and deep learning. <a href="https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"> Link</a> </li>
 		<li>An executives guide to AI. <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"> Link</a></li>
 		<li>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
-		<li>ELI5: Explain machine learning predictions. <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
 		<li>Python Machine Learning Notebooks (Essential codes for jump-starting machine learning/data science with Python) <a href="https://github.com/tirthajyoti/PythonMachineLearning"> Link</a></li>
 		<li>Python Codes in Data Science. <a href="https://github.com/csjzhou/2017"> Link</a></li>
         </ol>
-        
+	<h3>Explainable Machine Learning</h3>
+        <ol>
+	  <li>Interpretable machine learning book. <a href="https://christophm.github.io/interpretable-ml-book/"> Link</a> <a href="https://github.com/christophM/interpretable-ml-book"> Link</a></li>
+	  <li>Permutation Importance, ELI5. <a href="https://www.kaggle.com/dansbecker/permutation-importance"> Link</a> <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
+          <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
+	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
+	</ol>
+	
         <h3>Image Processing and Computer Vision</h3>
         <ol>
           <li> Using computer vision techniques in mechanical parts detection and micro-test. <a href="http://www.iai.fzk.de/www-extern/index.php?id=228&amp;L=1"> Link</a> </li>
@@ -82,8 +88,7 @@ title: Links
           <li> AndNav source code<a href="http://code.google.com/p/andnav/"> Link</a> </li>
           <li> OsmAnd source code<a href="http://code.google.com/p/osmand/"> Link</a> </li>          
         </ol>
-
-		<h3>Topology</h3>
+   <h3>Topology</h3>
         <ol>
           <li> Persistent homology detection software PLEX. <a href="http://comptop.stanford.edu/u/programs/jplex/"> Link</a> </li>
         </ol>
