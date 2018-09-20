@@ -34,6 +34,8 @@ title: Links
 		<li>An executives guide to AI. <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"> Link</a></li>
 		<li>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
 		<li>ELI5: Explain machine learning predictions. <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
+		<li>Python Machine Learning Notebooks (Essential codes for jump-starting machine learning/data science with Python) <a href="https://github.com/tirthajyoti/PythonMachineLearning"> Link</a></li>
+		<li>Python Codes in Data Science. <a href="https://github.com/csjzhou/2017"> Link</a></li>
         </ol>
         
         <h3>Image Processing and Computer Vision</h3>
