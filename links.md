@@ -36,6 +36,7 @@ title: Links
 		<li>Python Machine Learning Notebooks (Essential codes for jump-starting machine learning/data science with Python) <a href="https://github.com/tirthajyoti/PythonMachineLearning"> Link</a></li>
 		<li>Python Codes in Data Science. <a href="https://github.com/csjzhou/2017"> Link</a></li>
 		<li>Kaggle Machine Learning Course. <a href="https://www.kaggle.com/learn/machine-learning"> Link</a></li>
+		<li>Handling Missing Values. <a href="https://www.kaggle.com/dansbecker/handling-missing-values"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
