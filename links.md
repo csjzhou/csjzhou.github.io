@@ -35,6 +35,7 @@ title: Links
 		<li>Supervisely (Create CV application with DL) <a href="https://docs.supervise.ly/"> Link</a></li>
 		<li>Python Machine Learning Notebooks (Essential codes for jump-starting machine learning/data science with Python) <a href="https://github.com/tirthajyoti/PythonMachineLearning"> Link</a></li>
 		<li>Python Codes in Data Science. <a href="https://github.com/csjzhou/2017"> Link</a></li>
+		<li>Kaggle Machine Learning Course. <a href="https://www.kaggle.com/learn/machine-learning"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
@@ -43,8 +44,7 @@ title: Links
           <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
 	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
 	</ol>
-	
-        <h3>Image Processing and Computer Vision</h3>
+  <h3>Image Processing and Computer Vision</h3>
         <ol>
           <li> Using computer vision techniques in mechanical parts detection and micro-test. <a href="http://www.iai.fzk.de/www-extern/index.php?id=228&amp;L=1"> Link</a> </li>
           <li> Matrox Imaging Library -- useful in computer vision based applications. <a href="http://www.matrox.com/imaging/products/mil/home.cfm"> Link</a> </li>
@@ -61,8 +61,7 @@ title: Links
 		  <li> Combine images that overlap (Enblend &amp; Enfuse). <a href="http://enblend.sourceforge.net/index.htm"> Link</a> </li>
 		  <li> Panorama photo stitcher. <a href="http://hugin.sourceforge.net/"> Link</a> </li>
         </ol>
-		
-		<h3>Visualization and HCI</h3>
+<h3>Visualization and HCI</h3>
         <ol>
           <li> The TimeViz Brower: A Visual Survey of Visualization Techniques for Time-Oriented Data<a href="http://survey.timeviz.net/"> Link</a> </li>          
 		  <li> ALL ABOUT UX: Information for user experience professionals<a href="http://www.allaboutux.org/"> Link</a> </li>          
@@ -73,16 +72,14 @@ title: Links
 		  <li> MPM and ether: Java framework for 3D rendering, multi-projector-mapper<a href="https://github.com/arisona/mpm"> Link</a> </li>
 		  <li> A collection of data-rich UI components<a href="https://github.com/j-zhou-au/data-ui"> Link</a> </li>
         </ol>
-		
-		<h3>3D Scanner</h3>
+<h3>3D Scanner</h3>
         <ol>
 		  <li> The Stanford 3D Scanning Repository<a href="http://graphics.stanford.edu/data/3Dscanrep/"> Link</a> </li> 
           <li> parsley: simple and affordable 3D scanners<a href="https://code.google.com/p/parsley/"> Link</a> </li>
           <li> MakerScanner: OpenSource 3D Scanning<a href="http://www.makerscanner.com/index.htm"> Link</a> </li>
           <li> DIY 3D Scanner<a href="https://sites.google.com/site/colinord/Home/diy-3d-scanner/2009/diy-3d-laser-scanner---source-code"> Link</a> </li>          
         </ol>
-		
-        <h3>GPS Source</h3>
+<h3>GPS Source</h3>
         <ol>
           <li> TangoGPS source code<a href="http://tangogps.sourcearchive.com/"> Link</a> </li>
           <li> AndNav source code<a href="http://code.google.com/p/andnav/"> Link</a> </li>
@@ -92,25 +89,21 @@ title: Links
         <ol>
           <li> Persistent homology detection software PLEX. <a href="http://comptop.stanford.edu/u/programs/jplex/"> Link</a> </li>
         </ol>
-		
-        <h3>General Computing</h3>
+<h3>General Computing</h3>
         <ol>
           <li> A cross-platform numerical analysis and data processing library. <a href="http://www.alglib.net/"> Link</a> </li>
         </ol>
-
-        <h3>Decision Making</h3>
+<h3>Decision Making</h3>
         <ol>
           <li> Check effectiveness of decision making. <a href="http://www.winningteams.co.uk/Decision-Making.html"> Link</a> </li>
         </ol>
-
-        <h3>Paper Lists</h3>
+<h3>Paper Lists</h3>
         <ol>
           <li> NIPS 2012 papers. <a href="http://cs.stanford.edu/~karpathy/nipspreview/"> Link</a> </li>
 	       <li> IJCAI (International Joint Conferences on Artificial Intelligence) papers. <a href="http://ijcai.org/">Link</a></li>
           <li> Social guided machine learning. <a href="http://web.media.mit.edu/~alockerd/research.html">Link</a></li>
         </ol>
-
-        <h3>Tools</h3>
+<h3>Tools</h3>
         <ol>
           <li> PDF to WORD Converter: PDFtoWord. <a href="http://www.pdftoword.com/"> Link</a> </li>
 		  <li> Audacity: recording and editing sounds. <a href="http://audacity.sourceforge.net/"> Link</a> </li>
