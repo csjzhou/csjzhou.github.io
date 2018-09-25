@@ -19,8 +19,7 @@ title: Links
           <li> Machine Learning open source software. <a href="http://jmlr.csail.mit.edu/mloss/"> Link</a> </li>
           <li> dlib C++ Library (computing, machine learning, etc.). <a href="http://dlib.net/"> Link</a> </li>
           <li> Waffles: collection of machine learning and data mining libraries. <a href="http://waffles.sourceforge.net/"> Link</a> </li>
-          <li> Machine Learning Impact Forum. <a href="http://mlimpact.com/"> Link</a> </li>
-	      <li> scikit-learn: machine learning in Python. <a href="http://scikit-learn.org/dev/"> Link</a> </li>
+		<li> Machine Learning Impact Forum. <a href="http://mlimpact.com/"> Link</a> </li>
 		  <li> kaggle: labeled images for object recognition. <a href="http://www.kaggle.com/c/cifar-10"> Link</a> </li>
 	      <li> Machine Learning Cheat Sheet. <a href="http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html"> Link</a> </li>
 		  <li> Machine Learning Theory: An Introductory Primer. <a href="http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer#."> Link</a> </li>
@@ -44,6 +43,7 @@ title: Links
 	  <li>Permutation Importance, ELI5. <a href="https://www.kaggle.com/dansbecker/permutation-importance"> Link</a> <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
           <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
 	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
+	   <li> Advance uses of SHAP values. <a href="https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values"> Link</a> </li>
 	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
