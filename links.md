@@ -173,6 +173,7 @@ title: Links
           <li> How to write a cover letter. <a href="http://lifehacker.com/5880545/how-to-write-a-cover-letter-that-employers-will-actually-read"> Link</a> </li>
 		  <li> Blank screen after installing nvidia restricted driver. <a href="http://askubuntu.com/questions/41681/blank-screen-after-installing-nvidia-restricted-driver"> Link</a> </li>
 	  <li>How to create Google sites pages. <a href="https://sites.google.com/tcsnc.org/new-gsites-ncties17/resources?authuser=0"> Link</a></li>
+	  <li>How to add effects in Google sites page. <a href="https://www.youtube.com/watch?v=1Ny-1zHw5AI"> Link</a></li>
         </ol>
 		
 
