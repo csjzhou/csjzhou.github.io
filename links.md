@@ -72,6 +72,7 @@ title: Links
 		  <li> The data visualization catalogue<a href="http://www.datavizcatalogue.com/"> Link</a> </li>
 		  <li> MPM and ether: Java framework for 3D rendering, multi-projector-mapper<a href="https://github.com/arisona/mpm"> Link</a> </li>
 		  <li> A collection of data-rich UI components<a href="https://github.com/j-zhou-au/data-ui"> Link</a> </li>
+		  <li> Leaflet: Javascript library for interactive maps<a href="https://leafletjs.com/"> Link</a> </li>
         </ol>
 <h3>3D Scanner</h3>
         <ol>
