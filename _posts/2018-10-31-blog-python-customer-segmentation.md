@@ -15,7 +15,7 @@ published: true
 
 A small educative project for learning “Customer Segmentation” with a simple Data Analysis technique
 
-Originally from [https://towardsdatascience.com/how-to-automatically-segment-customers-using-purchase-data-and-a-few-lines-of-python-36939fb587a4](Media)
+Originally from [Media](https://towardsdatascience.com/how-to-automatically-segment-customers-using-purchase-data-and-a-few-lines-of-python-36939fb587a4)
 
 细分客户群是向客户提供个性化体验的关键。它可以提供关于客户行为、
 习惯与偏好的相关信息，帮助企业提供量身定制的营销活动从而改善客户体验。
@@ -149,4 +149,4 @@ please clap. Feel free to contact the author if you want to make simple or more 
 
 Other interesting read to learn more about RFM with k-means for Python:
 
-[http://www.kimberlycoffey.com/blog/2016/8/k-means-clustering-for-customer-segmentation](k-means Clustering for Customer Segmentation: A Practical Example)
+[k-means Clustering for Customer Segmentation: A Practical Example](http://www.kimberlycoffey.com/blog/2016/8/k-means-clustering-for-customer-segmentation)
