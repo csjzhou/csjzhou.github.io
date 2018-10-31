@@ -144,7 +144,7 @@ customers move to the “New” bucket (e.g. engaged customers).
 
 ![RFM_matrix_action.png]({{site.baseurl}}/img/RFM_matrix_action.png)
 
-The notebook is available on Github. Thank you for reading my post if you enjoyed it, 
+The notebook is available on [Github](https://github.com/tristanga/Data-Analysis/blob/master/Notebooks/Automatic%20Customer%20Segmentation%20with%20RFM%20%28Python%29.ipynb). Thank you for reading my post if you enjoyed it, 
 please clap. Feel free to contact the author if you want to make simple or more complex RFM segmentations within your organization.
 
 Other interesting read to learn more about RFM with k-means for Python:
