@@ -163,14 +163,12 @@ title: Links
 		  <li> Blog Donhao: Programming, Test. <a href="http://blog.csdn.net/donhao/article/details/5661044"> Link</a> </li>
 		  <li> Simple GPGPU Tutorial. <a href="http://www.mathematik.uni-dortmund.de/~goeddeke/gpgpu/tutorial.html#computing3"> Link</a> </li>
         </ol>
-
 		<h3>Research Institutes</h3>
         <ol>
 		  <li> MIT Media Lab, Affective Computing. <a href="http://www.media.mit.edu/research/groups/affective-computing"> Link</a> </li>
           <li> Human-Machine Interaction in MARCS Institute, UWS. <a href="http://marcs.uws.edu.au/research/hmi"> Link</a> </li>
 		  <li> Virtual Reality and Telexistence, TachiLab, Japan. <a href="http://tachilab.org/"> Link</a> </li>
         </ol>
-		
         <h3>How to</h3>
         <ol>
           <li> How to write a cover letter. <a href="http://lifehacker.com/5880545/how-to-write-a-cover-letter-that-employers-will-actually-read"> Link</a> </li>
@@ -178,6 +176,4 @@ title: Links
 	  <li>How to create Google sites pages. <a href="https://sites.google.com/tcsnc.org/new-gsites-ncties17/resources?authuser=0"> Link</a></li>
 	  <li>How to add effects in Google sites page. <a href="https://www.youtube.com/watch?v=1Ny-1zHw5AI"> Link</a></li>
         </ol>
-		
-
 	   </div>
