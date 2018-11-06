@@ -44,9 +44,22 @@ title: Links
           <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
 	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
 	   <li> Advance uses of SHAP values. <a href="https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values"> Link</a> </li>
-	  <li> Towards data science. <a href="https://towardsdatascience.com/"> Link</a> </li>
-	  <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
 	</ol>
+	<h3>Data Analysis</h3>
+        <ol>
+          <li> Measures of Effect Size (Strength of Association). <a href="http://egret.psychol.cam.ac.uk/statistics/local_copies_of_sources_Cardinal_and_Aitken_ANOVA/glm_effectsize.htm"> Link</a> </li>
+		  <li> What statistical analysis methods should I use? <a href="http://www.ats.ucla.edu/stat/stata/whatstat/whatstat.htm"> Link1</a> 
+		       <a href="http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/nonparametrics-tests/which-test-should-i-use/"> Link2</a></li>
+		  <li> Python Data Analysis (how to use Python for data analysis). <a href="https://waterprogramming.wordpress.com/2013/02/05/matplotlib-part-i-borg-runtime-metrics-plots/"> Link</a> </li>
+		  <li> Spatial-related data visualization with Python. <a href="http://blog.perrygeo.net/pages/projects.html"> Link</a> </li>
+		  <li> Dataguru (in Chinese). <a href="http://www.dataguru.cn/"> Link</a> </li>
+		  <li> Compare difference of curve groups. <a href="http://bioinf.wehi.edu.au/software/compareCurves/"> Link</a> </li>
+		  <li> Handbook of PARAMETRIC and NONPARAMETRIC Statistical Procedures. <a href="http://www.pxsglobal.net/pxswp/wp-content/uploads/2011/07/Parametric-and-NonParametric-Statistics.pdf"> Link</a> </li>
+		  <li> Methods of Multivariate Analysis. <a href="http://tx.shu.edu.tw/~PurpleWoo/Literature/!DataAnalysis/Methods%20of%20Multivariate%20Analysis.pdf"> Link</a> </li>
+		  <li> PyGraphistry: visual graph analytics. <a href="https://github.com/graphistry/pygraphistry"> Link</a> </li>
+		  <li> Towards data science. <a href="https://towardsdatascience.com/"> Link</a> </li>
+	  <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
+        </ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
           <li> Using computer vision techniques in mechanical parts detection and micro-test. <a href="http://www.iai.fzk.de/www-extern/index.php?id=228&amp;L=1"> Link</a> </li>
@@ -130,32 +143,19 @@ title: Links
 		  <li> MNE: MEG+EEG Analysis &amp; Visualization with Python. <a href="http://martinos.org/mne/stable/index.html"> Link</a> </li>
 		  <li> Open Source Eyetracking: Pupil. <a href="https://pupil-labs.com/pupil/"> Link</a> </li>
         </ol>
-
 		<h3>Resources</h3>
         <ol>
           <li> Flaticon: database of free vector icons. <a href="http://www.flaticon.com/"> Link</a> </li>
         </ol>
-		
-		<h3>Data Analysis</h3>
+	<h3>Blockchain</h3>
         <ol>
-          <li> Measures of Effect Size (Strength of Association). <a href="http://egret.psychol.cam.ac.uk/statistics/local_copies_of_sources_Cardinal_and_Aitken_ANOVA/glm_effectsize.htm"> Link</a> </li>
-		  <li> What statistical analysis methods should I use? <a href="http://www.ats.ucla.edu/stat/stata/whatstat/whatstat.htm"> Link1</a> 
-		       <a href="http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/nonparametrics-tests/which-test-should-i-use/"> Link2</a></li>
-		  <li> Python Data Analysis (how to use Python for data analysis). <a href="https://waterprogramming.wordpress.com/2013/02/05/matplotlib-part-i-borg-runtime-metrics-plots/"> Link</a> </li>
-		  <li> Spatial-related data visualization with Python. <a href="http://blog.perrygeo.net/pages/projects.html"> Link</a> </li>
-		  <li> Dataguru (in Chinese). <a href="http://www.dataguru.cn/"> Link</a> </li>
-		  <li> Compare difference of curve groups. <a href="http://bioinf.wehi.edu.au/software/compareCurves/"> Link</a> </li>
-		  <li> Handbook of PARAMETRIC and NONPARAMETRIC Statistical Procedures. <a href="http://www.pxsglobal.net/pxswp/wp-content/uploads/2011/07/Parametric-and-NonParametric-Statistics.pdf"> Link</a> </li>
-		  <li> Methods of Multivariate Analysis. <a href="http://tx.shu.edu.tw/~PurpleWoo/Literature/!DataAnalysis/Methods%20of%20Multivariate%20Analysis.pdf"> Link</a> </li>
-		  <li> PyGraphistry: visual graph analytics. <a href="https://github.com/graphistry/pygraphistry"> Link</a> </li>
+          <li> Learn to Code Ethereum DApps By Building Your Own Game <a href="https://cryptozombies.io/"> Link</a> </li>
         </ol>
-		
         <h3>English Study</h3>
         <ol>
           <li> English pronunciation: English Meeting (Dave Sconda), Cooool. <a href="http://www.youtube.com/user/EnglishMeeting/videos?view=0"> Link</a> </li>
           <li> English pronunciation summary website, cool site. <a href="http://www.eflfast.com/pronunciation.htm"> Link</a> </li>
         </ol>
-
         <h3>Computer Study</h3>
         <ol>
           <li> JavaScript Tutorial. <a href="http://www.w3schools.com/js/default.asp"> Link</a> </li>
