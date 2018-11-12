@@ -49,6 +49,8 @@ title: Links
         <ol>
           <li> Measures of Effect Size (Strength of Association). <a href="http://egret.psychol.cam.ac.uk/statistics/local_copies_of_sources_Cardinal_and_Aitken_ANOVA/glm_effectsize.htm"> Link</a> </li>
 		  <li> What statistical analysis methods should I use? <a href="http://www.ats.ucla.edu/stat/stata/whatstat/whatstat.htm"> Link1</a> 
+		  <li> Analysis of Variance (ANOVA) in Python. <a href="https://pythonfordatascience.org/anova-python/"> Link1</a>
+		  <li> Interactions and ANOVA in Python. <a href="http://www.statsmodels.org/dev/examples/notebooks/generated/interactions_anova.html"> Link1</a>
 		       <a href="http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/nonparametrics-tests/which-test-should-i-use/"> Link2</a></li>
 		  <li> Python Data Analysis (how to use Python for data analysis). <a href="https://waterprogramming.wordpress.com/2013/02/05/matplotlib-part-i-borg-runtime-metrics-plots/"> Link</a> </li>
 		  <li> Spatial-related data visualization with Python. <a href="http://blog.perrygeo.net/pages/projects.html"> Link</a> </li>
