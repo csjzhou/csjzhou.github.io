@@ -27,8 +27,7 @@ Tel: +61 2 9490 5723
 Email: jianlong.zhou [at] data61.csiro.au
 
 **Guest Editor:** 
-[Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing) 
-
+[Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing)       
 **Associate Editor:** 
 [Behaviour & Information Technology (Taylor&Francis)](https://www.tandfonline.com/action/journalInformation?journalCode=tbit20)
 
