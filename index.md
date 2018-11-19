@@ -24,7 +24,12 @@ IEEE Senior Member
 Australian Technology Park  
 13 Garden Street | Eveleigh, NSW 2015 | Australia  
 Tel: +61 2 9490 5723  
-Email: jianlong.zhou [at] data61.csiro.au  
+Email: jianlong.zhou [at] data61.csiro.au
+
+**Guest Editor:** 
+[Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing) 
+**Associate Editor:** 
+[Behaviour & Information Technology (Taylor&Francis)](https://www.tandfonline.com/action/journalInformation?journalCode=tbit20)
 
 <!----
 <div style="text-align:center">
