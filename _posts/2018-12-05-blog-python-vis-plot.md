@@ -49,7 +49,7 @@ plt.show()
 ### 2D Density Plot <a id="densityplot"></a>
 
 A 2D density plot is a simple extension of the 1D version with the added benefit of being able to see the probability distribution with respect to 2 variables. Let’s checkout the 2D density plot below. The legend on the right uses colour to represent the probability at each point. The highest probability, and therefore concentration of our data, seems to be around a size of 0.5 and a speed of 1.4-ish. As you can tell by now, 2D density plots are great for quickly identifying where our data is most concentrated with respect to two variables, rather than just one as in the 1D density plot. This is especially powerful when you have two variables that are very important to your output and want to see how they both contribute together to the output distribution.
-
+ 
 ![densityplot.png]({{site.baseurl}}/img/densityplot.png)
 
 ``` python
