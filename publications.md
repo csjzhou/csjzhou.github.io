@@ -32,6 +32,7 @@ contribution with international impact in the field of human interaction with, a
 <div>
 <h3>HCI and Transparent Machine Learning </h3>
         <ol class="start"> <!-- -->
+		<li>S. Luo, V. Chu, Z. Li, Y. Wang, <b>Jianlong Zhou</b>, F. Chen, and R. Wong. Multitask learning for sparse failure prediction. PAKDD 2019</li>
 		  <li><b>Jianlong Zhou</b> and F. Chen. DecisionMind: Revealing Human 
 Cognition States in Data Analytics-Driven Decision Making with a 
 Multimodal Interface. Journal on Multimodal User Interfaces, (Springer),
