@@ -59,8 +59,8 @@ title: Links
 		  <li> Methods of Multivariate Analysis. <a href="http://tx.shu.edu.tw/~PurpleWoo/Literature/!DataAnalysis/Methods%20of%20Multivariate%20Analysis.pdf"> Link</a> </li>
 		  <li> PyGraphistry: visual graph analytics. <a href="https://github.com/graphistry/pygraphistry"> Link</a> </li>
 		  <li> Towards data science. <a href="https://towardsdatascience.com/"> Link</a> </li>
-	  <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
-        </ol>
+	 	 <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
+  </ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
           <li> Using computer vision techniques in mechanical parts detection and micro-test. <a href="http://www.iai.fzk.de/www-extern/index.php?id=228&amp;L=1"> Link</a> </li>
