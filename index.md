@@ -23,7 +23,7 @@ IEEE Senior Member
 **Contact:**  
 Building 11, University of Technology Sydney  
 81 Broadway | Ultimo, NSW 2007 | Australia  
-Email: jianlong.zhou [at] data61.csiro.au
+Email: jianlong.zhou [at] uts.edu.au
 
 **Guest Editor:** 
 [Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing)       
