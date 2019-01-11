@@ -60,6 +60,8 @@ title: Links
 		  <li> PyGraphistry: visual graph analytics. <a href="https://github.com/graphistry/pygraphistry"> Link</a> </li>
 		  <li> Towards data science. <a href="https://towardsdatascience.com/"> Link</a> </li>
 	 	 <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
+		<li> Top 50 matplotlib Visualizations – The Master Plots. <a href="https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python"> Link</a> </li>
+		
   </ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
