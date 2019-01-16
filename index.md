@@ -18,7 +18,7 @@ bigimg:
 **Jianlong Zhou**  
 PhD, Senior Lecturer  
 IEEE Senior Member  
-[DATA61](https://www.data61.csiro.au/), [CSIRO](https://www.csiro.au/)
+[FEIT](https://www.uts.edu.au/about/faculty-engineering-and-information-technology), [University of Technology Sydney](http://www.uts.edu.au)
 
 **Contact:**  
 Building 11, University of Technology Sydney  
