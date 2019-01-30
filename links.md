@@ -61,7 +61,7 @@ title: Links
 		  <li> Towards data science. <a href="https://towardsdatascience.com/"> Link</a> </li>
 	 	 <li> Set up a data science environment. <a href="https://towardsdatascience.com/setup-a-data-science-environment-on-your-personal-computer-6ce931113914"> Link</a> </li>
 		<li> Top 50 matplotlib Visualizations – The Master Plots. <a href="https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python"> Link</a> </li>
-		
+		<li> missingno – Missing data visualization module for Python. <a href="https://github.com/ResidentMario/missingno"> Link</a> </li>		
   </ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
