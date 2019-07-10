@@ -13,7 +13,7 @@ title: Links
           <li> Quora -- Q/A website. <a href="https://www.quora.com/"> Link</a> </li>
           <li> Data mining and analytics resources. <a href="http://www.kdnuggets.com/index.html"> Link</a> </li>
           <li> Orange -- data mining and ML Open Source software in C++ and Python. <a href="http://orange.biolab.si/"> Link</a> </li>
-          <li> Scikit-learn  --- ML Open Source software in Python. <a href="http://scikit-learn.org/stable/"> Link</a> </li>
+          <li> Top 30 Python Libraries for Machine Learning. <a href="https://morioh.com/p/a42cb68ff2b5/top-25-python-libraries-for-machine-learning?utm_medium=email&utm_source=topic%20optin&utm_campaign=awareness&utm_content=20190710%20data%20nl&mkt_tok=eyJpIjoiWkdVMVlqWXlNV1V4TVdOaCIsInQiOiJxVkhjTSsrRXQ2U3lqY3A1cnc4YVlTRXdMSEZkTlZwMWI5Y3h0ZkpXRitUTDBmNjNVUWF2OHFZWVhNendTdUJZVVBcL25aUFd6MzFCMnNwbjZ6d0hrcERUV0pLcW5jb2puOFFXOTVSekxtYnU2MjFJTitZVUN2dnJOY1VBU0VvUFwvIn0%3D"> Link</a> </li>
           <li> RapidMiner -- Open Source system for data mining. <a href="http://rapid-i.com/content/view/181/190/"> Link</a> </li>
           <li> Pentaho -- Data analytics and visualization. <a href="http://www.pentaho.com/"> Link</a> </li>
           <li> Machine Learning open source software. <a href="http://jmlr.csail.mit.edu/mloss/"> Link</a> </li>
@@ -92,6 +92,7 @@ title: Links
 		  <li> MPM and ether: Java framework for 3D rendering, multi-projector-mapper<a href="https://github.com/arisona/mpm"> Link</a> </li>
 		  <li> A collection of data-rich UI components<a href="https://github.com/j-zhou-au/data-ui"> Link</a> </li>
 		  <li> Leaflet: Javascript library for interactive maps<a href="https://leafletjs.com/"> Link</a> </li>
+		  <li> Six Principles for Designing Any Chart<a href="https://medium.com/google-design/redefining-data-visualization-at-google-9bdcf2e447c6"> Link</a> </li>
         </ol>
 <h3>3D Scanner</h3>
         <ol>
