@@ -45,6 +45,7 @@ title: Links
           <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
 	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
 	   <li> Advance uses of SHAP values. <a href="https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values"> Link</a> </li>
+	   <li> Ethical ML. <a href="https://github.com/EthicalML/awesome-production-machine-learning?mkt_tok=eyJpIjoiTlRWbE5XSTVabUk0WkROayIsInQiOiJ5ZzFCZ0ZaVHZFN3hHXC9vR01JNVwvcU5zNDJrMGt0U3hQVUdyckErd203Wmx0OGV3WjZoWEVoaEFiRDdNZHloXC9tcHF3UCt5eFpQeWppRzZWcE04Rm9oQVhwYlZHNzhMcDYzcE5uMUUyRkFuTXIwQ2NqTHM3MlFHVERFRnBUQU11VCJ9#data-pipeline-etl-frameworks"> Link</a> </li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
