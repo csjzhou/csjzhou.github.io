@@ -58,6 +58,7 @@ title: Links
 		  <li> Interactions and ANOVA in Python. <a href="http://www.statsmodels.org/dev/examples/notebooks/generated/interactions_anova.html"> Link1</a></li>
 		  <li> Python Data Analysis (how to use Python for data analysis). <a href="https://waterprogramming.wordpress.com/2013/02/05/matplotlib-part-i-borg-runtime-metrics-plots/"> Link</a> </li>
 		  <li> Spatial-related data visualization with Python. <a href="http://blog.perrygeo.net/pages/projects.html"> Link</a> </li>
+		<li> Learn Geospatial data analysis with Kaggle. <a href="https://www.kaggle.com/learn/geospatial-analysis"> Link</a> </li>
 		  <li> Dataguru (in Chinese). <a href="http://www.dataguru.cn/"> Link</a> </li>
 		  <li> Compare difference of curve groups. <a href="http://bioinf.wehi.edu.au/software/compareCurves/"> Link</a> </li>
 		  <li> Handbook of PARAMETRIC and NONPARAMETRIC Statistical Procedures. <a href="http://www.pxsglobal.net/pxswp/wp-content/uploads/2011/07/Parametric-and-NonParametric-Statistics.pdf"> Link</a> </li>
