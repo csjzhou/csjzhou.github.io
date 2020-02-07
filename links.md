@@ -42,6 +42,7 @@ title: Links
 	<h3>Explainable Machine Learning</h3>
         <ol>
 	  <li>Interpretable machine learning book. <a href="https://christophm.github.io/interpretable-ml-book/"> Link</a> <a href="https://github.com/christophM/interpretable-ml-book"> Link</a></li>
+	  <li>Feature importance — what’s in a name?. <a href="https://medium.com/bigdatarepublic/feature-importance-whats-in-a-name-79532e59eea3"> Link</a></li>
 	  <li>Permutation Importance, ELI5. <a href="https://www.kaggle.com/dansbecker/permutation-importance"> Link</a> <a href="https://eli5.readthedocs.io/en/latest/overview.html"> Link</a></li>
           <li>Partial Dependence Plots, PDPbox. <a href="https://www.kaggle.com/dansbecker/partial-plots"> Link</a> <a href="https://pdpbox.readthedocs.io/en/latest/index.html"> Link</a></li>
 	  <li> Feature analysis using SHAP. <a href="https://www.kaggle.com/henryjoye/shap-values"> Link</a> <a href="https://www.kaggle.com/jsaguiar/feature-analysis-using-shap-full-data/notebook"> Link</a></li>
