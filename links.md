@@ -71,6 +71,7 @@ title: Links
 		<li> Top 50 matplotlib Visualizations – The Master Plots. <a href="https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python"> Link</a> </li>
 		<li> missingno – Missing data visualization module for Python. <a href="https://github.com/ResidentMario/missingno"> Link</a> </li>
 		<li> Presidio - Data protection and anonymization API <a href="https://github.com/microsoft/presidio"> Link</a></li>
+		<li> Five Interesting Data Engineering Projects <a href="https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501"> Link</a></li>
   </ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
