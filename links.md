@@ -189,6 +189,7 @@ title: Links
 	<h3>Music</h3>
         <ol>
           <li> Butterfly Lovers ErHu Concerto. (《梁祝》 指揮/閻惠昌 二胡/孫凰 ) <a href="https://www.youtube.com/watch?v=tu5XohUR3Pg"> Link</a> </li>
+	  <li> Violin Lessons：Proper Violin Finger Placement <a href="https://www.youtube.com/watch?v=yktxiZAo7vw"> Link</a> </li>
 	</ol>
         <h3>How to</h3>
         <ol>
