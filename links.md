@@ -54,6 +54,7 @@ title: Links
 	   <li> XAI - An eXplainability toolbox for machine learning. <a href="https://github.com/EthicalML/xai"> Link</a> </li>
 	   <li> A practical guide towards explainability and bias evaluation in machine learning, trust scores. <a href="https://github.com/EthicalML/explainability-and-bias"> Link</a> </li>
 	   <li> Importance comparison in Interpretable Machine Learning with XGBoost. <a href="https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27"> Link</a> </li>
+	   <li> Partnership on AI (PAI). <a href="https://www.partnershiponai.org/pai-launches-interactive-project-to-put-ethical-ai-principles-into-practice/"> Link</a> </li>
 </ol>
 	<h3>Data Analysis</h3>
         <ol>
