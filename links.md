@@ -41,6 +41,7 @@ title: Links
 		<li>Browse State-of-the-art of machine learning. <a href="https://paperswithcode.com/sota"> Link</a></li>
 		<li>Machine learning for everyone. <a href="https://vas3k.com/blog/machine_learning/"> Link</a></li>
 		<li>Time series forecasting in Python with Facebook Prophet. <a href="https://facebook.github.io/prophet/"> Link</a></li>
+		<li>Dive into deep learning. <a href="http://d2l.ai/"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
