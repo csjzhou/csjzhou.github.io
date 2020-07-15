@@ -42,6 +42,7 @@ title: Links
 		<li>Machine learning for everyone. <a href="https://vas3k.com/blog/machine_learning/"> Link</a></li>
 		<li>Time series forecasting in Python with Facebook Prophet. <a href="https://facebook.github.io/prophet/"> Link</a></li>
 		<li>Dive into deep learning. <a href="http://d2l.ai/"> Link</a></li>
+		<li>Darts: time series made easy in Python. <a href="https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878"> Link</a><a href="https://github.com/unit8co/darts"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
@@ -108,6 +109,7 @@ title: Links
 		  <li> A collection of data-rich UI components<a href="https://github.com/j-zhou-au/data-ui"> Link</a> </li>
 		  <li> Leaflet: Javascript library for interactive maps<a href="https://leafletjs.com/"> Link</a> </li>
 		  <li> Six Principles for Designing Any Chart<a href="https://medium.com/google-design/redefining-data-visualization-at-google-9bdcf2e447c6"> Link</a> </li>
+		  <li>Auto-Viz: quickly visualise data.<a href="https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a"> Link</a> </li>
         </ol>
 <h3>3D Scanner</h3>
         <ol>
