@@ -59,6 +59,7 @@ title: Links
 	   <li> Partnership on AI (PAI). <a href="https://www.partnershiponai.org/pai-launches-interactive-project-to-put-ethical-ai-principles-into-practice/"> Link</a> </li>
 	  <li> Commercial product targeting ethical AI. <a href="https://www.monalabs.io/"> Link</a> </li>
 	  <li> Rethinking human-AI interaction. <a href="http://jessylin.com/2020/06/08/rethinking-human-ai-interaction/"> Link</a> </li>
+	  <li> Artificial Intelligence Incidents Database. <a href="https://incidentdatabase.ai/discover"> Link</a> </li>
 </ol>
 	<h3>Data Analysis</h3>
         <ol>
