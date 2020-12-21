@@ -200,6 +200,11 @@ title: Links
           <li> Butterfly Lovers ErHu Concerto. (《梁祝》 指揮/閻惠昌 二胡/孫凰 ) <a href="https://www.youtube.com/watch?v=tu5XohUR3Pg"> Link</a> </li>
 	  <li> Violin Lessons：Proper Violin Finger Placement <a href="https://www.youtube.com/watch?v=yktxiZAo7vw"> Link</a> </li>
 	</ol>
+	<h3>Life</h3>
+        <ol>
+          <li>Do you know your life’s purpose?<a href="https://www.mckinsey.com/business-functions/organization/our-insights/life-purpose"> Link</a> </li>
+	  <li>The most fundamental skill: Intentional learning and the career advantage<a href="https://www.mckinsey.com/featured-insights/future-of-work/the-most-fundamental-skill-intentional-learning-and-the-career-advantage"> Link</a> </li>
+	</ol>
         <h3>How to</h3>
         <ol>
           <li> How to write a cover letter. <a href="http://lifehacker.com/5880545/how-to-write-a-cover-letter-that-employers-will-actually-read"> Link</a> </li>
