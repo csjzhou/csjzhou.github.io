@@ -60,7 +60,9 @@ title: Links
 	  <li> Commercial product targeting ethical AI. <a href="https://www.monalabs.io/"> Link</a> </li>
 	  <li> Rethinking human-AI interaction. <a href="http://jessylin.com/2020/06/08/rethinking-human-ai-interaction/"> Link</a> </li>
 	  <li> Artificial Intelligence Incidents Database. <a href="https://incidentdatabase.ai/discover"> Link</a> </li>
-</ol>
+	  <li> Responsible Machine Learning. <a href="https://dalex.drwhy.ai/python/"> Link</a> </li>	
+	  <li> Alibi explain. <a href="https://github.com/SeldonIO/alibi"> Link</a> </li>	
+	</ol>
 	<h3>Data Analysis</h3>
         <ol>
           <li> Measures of Effect Size (Strength of Association). <a href="http://egret.psychol.cam.ac.uk/statistics/local_copies_of_sources_Cardinal_and_Aitken_ANOVA/glm_effectsize.htm"> Link</a> </li>
