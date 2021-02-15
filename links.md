@@ -171,6 +171,7 @@ title: Links
 		  <li> MNE: MEG+EEG Analysis &amp; Visualization with Python. <a href="http://martinos.org/mne/stable/index.html"> Link</a> </li>
 		  <li> Open Source Eyetracking: Pupil. <a href="https://pupil-labs.com/pupil/"> Link</a> </li>
 		<li> Export Orcid work to Word doc. <a href="https://aushsi.shinyapps.io/orcid/"> Link</a> </li>
+		<li> SVG repository (free). <a href="https://www.svgrepo.com/"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
