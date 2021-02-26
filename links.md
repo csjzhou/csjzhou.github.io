@@ -43,6 +43,12 @@ title: Links
 		<li>Time series forecasting in Python with Facebook Prophet. <a href="https://facebook.github.io/prophet/"> Link</a></li>
 		<li>Dive into deep learning. <a href="http://d2l.ai/"> Link</a></li>
 		<li>Darts: time series made easy in Python. <a href="https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878"> Link</a><a href="https://github.com/unit8co/darts"> Link</a></li>
+		<li>Autodata: Automating common data operations. <a href="https://blog.marcua.net/2021/02/07/autodata-automating-common-data-operations.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_324"> Link</a></li>
+			<ol>
+			<li>grab summary info about time-series. <a href="https://tsfresh.readthedocs.io/en/latest/text/introduction.html"> Link</a></li>
+			<li>Data cleaning, transformation and exploration. <a href="https://openrefine.org/"> Link</a></li>
+			<li>A nice library for feature engineering. <a href="https://featuretools.alteryx.com/en/stable/#"> Link</a></li>
+			</ol>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
