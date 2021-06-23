@@ -49,7 +49,7 @@ title: Links
 			<li>Data cleaning, transformation and exploration. <a href="https://openrefine.org/"> Link</a></li>
 			<li>A nice library for feature engineering. <a href="https://featuretools.alteryx.com/en/stable/#"> Link</a></li>
 			</ol>
-		li>Kats: One stop shop for time series analysis in Python from Facebook. <a href="https://facebookresearch.github.io/Kats"> Link</a></li>
+		<li>Kats: One stop shop for time series analysis in Python from Facebook. <a href="https://facebookresearch.github.io/Kats"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
