@@ -124,6 +124,7 @@ title: Links
 		  <li> Leaflet: Javascript library for interactive maps<a href="https://leafletjs.com/"> Link</a> </li>
 		  <li> Six Principles for Designing Any Chart<a href="https://medium.com/google-design/redefining-data-visualization-at-google-9bdcf2e447c6"> Link</a> </li>
 		  <li>Auto-Viz: quickly visualise data.<a href="https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a"> Link</a> </li>
+		<li>AEffective Visualization of Multi-Dimensional Data — A Hands-on Approach.<a href="https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8"> Link</a> </li>
         </ol>
 <h3>3D Scanner</h3>
         <ol>
