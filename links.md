@@ -41,6 +41,7 @@ title: Links
 		<li>Browse State-of-the-art of machine learning. <a href="https://paperswithcode.com/sota"> Link</a></li>
 		<li>Machine learning for everyone. <a href="https://vas3k.com/blog/machine_learning/"> Link</a></li>
 		<li>Time series forecasting in Python with Facebook Prophet. <a href="https://facebook.github.io/prophet/"> Link</a></li>
+		<li>Time series forecasting in Python (Darts). <a href="https://github.com/unit8co/darts"> Link</a></li>
 		<li>Dive into deep learning. <a href="http://d2l.ai/"> Link</a></li>
 		<li>Darts: time series made easy in Python. <a href="https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878"> Link</a><a href="https://github.com/unit8co/darts"> Link</a></li>
 		<li>Autodata: Automating common data operations. <a href="https://blog.marcua.net/2021/02/07/autodata-automating-common-data-operations.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_324"> Link</a></li>
@@ -113,7 +114,8 @@ title: Links
         </ol>
 <h3>Visualization and HCI</h3>
         <ol>
-          <li> The TimeViz Brower: A Visual Survey of Visualization Techniques for Time-Oriented Data<a href="http://survey.timeviz.net/"> Link</a> </li>          
+          <li> The TimeViz Brower: A Visual Survey of Visualization Techniques for Time-Oriented Data<a href="http://survey.timeviz.net/"> Link</a> </li>
+		<li> The UncertaintyVis Browser <a href="https://www.amitjena.com/uncertaintyVizBrowser/"> Link</a> </li>
 		  <li> ALL ABOUT UX: Information for user experience professionals<a href="http://www.allaboutux.org/"> Link</a> </li>          
 		  <li> Nanocubes: Visualization of Spatiotemporal Dataset<a href="http://www.nanocubes.net/#software"> Link</a> </li>          
 		  <li> Reeb Graphs and efficient construction of Reeb Graphs<a href="http://vgl.serc.iisc.ernet.in/projects/project.php?pid=001"> Link</a> </li>          
