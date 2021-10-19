@@ -71,6 +71,7 @@ title: Links
 	  <li> Responsible Machine Learning. <a href="https://dalex.drwhy.ai/python/"> Link</a> </li>	
 	  <li> Alibi explain. <a href="https://github.com/SeldonIO/alibi"> Link</a> </li>
 	  <li> Seminar explainable AI 2019. <a href="https://human-centered.ai/seminar-explainable-ai-2019/"> Link</a> </li>	
+	  <li> Responsible-AI-Widgets. <a href="https://github.com/microsoft/responsible-ai-widgets"> Link</a> </li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
