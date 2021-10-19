@@ -51,6 +51,7 @@ title: Links
 			<li>A nice library for feature engineering. <a href="https://featuretools.alteryx.com/en/stable/#"> Link</a></li>
 			</ol>
 		<li>Kats: One stop shop for time series analysis in Python from Facebook. <a href="https://facebookresearch.github.io/Kats"> Link</a></li>
+		<li>The Breathing K-Means Algorithm. <a href="https://github.com/gittar/breathing-k-means#readme"> Link</a></li>
         </ol>
 	<h3>Explainable Machine Learning</h3>
         <ol>
