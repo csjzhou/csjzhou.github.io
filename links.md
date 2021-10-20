@@ -53,7 +53,7 @@ title: Links
 		<li>Kats: One stop shop for time series analysis in Python from Facebook. <a href="https://facebookresearch.github.io/Kats"> Link</a></li>
 		<li>The Breathing K-Means Algorithm. <a href="https://github.com/gittar/breathing-k-means#readme"> Link</a></li>
         </ol>
-	<h3>Explainable Machine Learning</h3>
+	<h3>Explainable Machine Learning and AI Ethics</h3>
         <ol>
 	  <li>Interpretable machine learning book. <a href="https://christophm.github.io/interpretable-ml-book/"> Link</a> <a href="https://github.com/christophM/interpretable-ml-book"> Link</a></li>
 	  <li>Feature importance — what’s in a name?. <a href="https://medium.com/bigdatarepublic/feature-importance-whats-in-a-name-79532e59eea3"> Link</a></li>
@@ -73,6 +73,7 @@ title: Links
 	  <li> Alibi explain. <a href="https://github.com/SeldonIO/alibi"> Link</a> </li>
 	  <li> Seminar explainable AI 2019. <a href="https://human-centered.ai/seminar-explainable-ai-2019/"> Link</a> </li>	
 	  <li> Responsible-AI-Widgets. <a href="https://github.com/microsoft/responsible-ai-widgets"> Link</a> </li>
+	  <li> AI Ethics Courses - A Global Perspective. <a href="https://aiethicscourse.org/modules.html?utm_source=data.org&utm_campaign=42596f740c-NEWSLETTER11_10_20_2021&utm_medium=email&utm_term=0_3a748d8cd9-42596f740c-341546113"> Link</a> </li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
