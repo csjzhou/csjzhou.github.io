@@ -96,7 +96,7 @@ title: Links
 		<li> Presidio - Data protection and anonymization API <a href="https://github.com/microsoft/presidio"> Link</a></li>
 		<li> Five Interesting Data Engineering Projects <a href="https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501"> Link</a></li>
 		<li> COVID19-historical-data-visualization <a href="https://github.com/Mistletoer/COVID-19-historical-data-visualization-2019-nCoV-"> Link</a></li>
-		<li> Awesome data labeling<a href="https://github.com/heartexlabs/awesome-data-labeling#readme"> Link</a></li>
+		<li> Awesome data labeling<a href="https://github.com/heartexlabs/awesome-data-labeling#readme"> Link</a></li>  
 	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
@@ -115,6 +115,7 @@ title: Links
 		  <li> Combine images that overlap (Enblend &amp; Enfuse). <a href="http://enblend.sourceforge.net/index.htm"> Link</a> </li>
 		  <li> Panorama photo stitcher. <a href="http://hugin.sourceforge.net/"> Link</a> </li>
         </ol>
+	
 <h3>Visualization and HCI</h3>
         <ol>
           <li> The TimeViz Brower: A Visual Survey of Visualization Techniques for Time-Oriented Data<a href="http://survey.timeviz.net/"> Link</a> </li>
