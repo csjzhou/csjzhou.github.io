@@ -27,7 +27,9 @@ Building 11, University of Technology Sydney
 Email: jianlong.zhou [at] uts.edu.au
 
 **Guest Editor:**   
-[Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing)       
+[Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing)          
+[Machine Learning & Knowledge Extraction (MDPI)](https://www.mdpi.com/journal/make/special_issues/Fairness_AI
+)   
 
 **Associate Editor:**    
 [Behaviour & Information Technology (Taylor&Francis)](https://www.tandfonline.com/action/journalInformation?journalCode=tbit20)  
