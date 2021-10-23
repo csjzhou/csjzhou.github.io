@@ -7,11 +7,14 @@ published: true
 
 
 ----
-## Research Interests
-- Explainable AI
-- Human and Machine Learning
-- Cognitive and Emontional Computing (Eye-tracking, GSR, BVP)
+ ## Research Interests  
+- Human-Centred AI
+- AI Ethics
+- AI Fairness
+- AI Explainability
 - Machine Learning
+- Cognitive and Emontional Computing (Eye-tracking, GSR, BVP)
+- Human-Computer Interaction
 - Visual Analytics
 
 
