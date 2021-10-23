@@ -17,8 +17,8 @@ bigimg:
 
 **Jianlong Zhou**  
 PhD, Senior Lecturer  
-IEEE Senior Member \  
-ACM Senior Member \
+IEEE Senior Member   
+ACM Senior Member   
 [FEIT](https://www.uts.edu.au/about/faculty-engineering-and-information-technology), [University of Technology Sydney](http://www.uts.edu.au)
 
 **Contact:**  
@@ -26,13 +26,11 @@ Building 11, University of Technology Sydney
 81 Broadway | Ultimo, NSW 2007 | Australia  
 Email: jianlong.zhou [at] uts.edu.au
 
-**Guest Editor:** 
-
+**Guest Editor:**   
 [Journal of Visual Languages and Computing (Elsevier)](https://www.journals.elsevier.com/journal-of-visual-languages-and-computing)       
 
-**Associate Editor:** 
-
-[Behaviour & Information Technology (Taylor&Francis)](https://www.tandfonline.com/action/journalInformation?journalCode=tbit20) \
+**Associate Editor:**    
+[Behaviour & Information Technology (Taylor&Francis)](https://www.tandfonline.com/action/journalInformation?journalCode=tbit20)  
 [Machine Learning & Knowledge Extraction (MDPI)](https://www.mdpi.com/journal/make/editors)
 
 <!----
