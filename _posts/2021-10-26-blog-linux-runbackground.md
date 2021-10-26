@@ -16,24 +16,24 @@ It is an important function to run programs in the background in linux especiall
 
 ## Using 'nohup':
 
-### Run in the background
+Run in the background
 ```
 nohup application > output.txt &
 
 exit
 ```
 
-### Check jobs in the background
+Check jobs in the background
 ```
 jobs -l
 ```
 
-### Take to the foreground
+Take to the foreground
 ```
 fg 
 ```
 
-### Kill a job
+Kill a job
 ```
 kill
 ```
