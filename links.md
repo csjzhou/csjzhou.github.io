@@ -81,6 +81,7 @@ title: Links
 		  <li> What statistical analysis methods should I use? <a href="http://www.ats.ucla.edu/stat/stata/whatstat/whatstat.htm"> Link1</a> 
 		  <li> Analysis of Variance (ANOVA) in Python. <a href="https://pythonfordatascience.org/anova-python/"> Link1</a>
 		  <li> Interactions and ANOVA in Python. <a href="http://www.statsmodels.org/dev/examples/notebooks/generated/interactions_anova.html"> Link1</a></li>
+		<li> Effortlessly Show Statistical Significance on Seaborn Plots. <a href="https://levelup.gitconnected.com/statistics-on-seaborn-plots-with-statannotations-2bfce0394c00"> Link1</a></li>
 		  <li> Python Data Analysis (how to use Python for data analysis). <a href="https://waterprogramming.wordpress.com/2013/02/05/matplotlib-part-i-borg-runtime-metrics-plots/"> Link</a> </li>
 		  <li> Spatial-related data visualization with Python. <a href="http://blog.perrygeo.net/pages/projects.html"> Link</a> </li>
 		<li> Learn Geospatial data analysis with Kaggle. <a href="https://www.kaggle.com/learn/geospatial-analysis"> Link</a> </li>
