@@ -69,6 +69,7 @@ Email: jianlong.zhou [at] uts.edu.au
  </div>
 -->
 
+[![tml](/img/humanity_book.jpg){:height="160px" width="120px"}](https://link.springer.com/book/10.1007/978-3-030-72188-6)
 [![tml](/img/tml_book.jpg){:height="160px" width="120px"}](https://link.springer.com/book/10.1007%2F978-3-319-90403-0)
 [![clm](/img/clm_book.jpg){:height="160px" width="120px"}](http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1)
 [![vis](/img/amazon_cover.jpg){:height="160px" width="120px"}](http://www.amazon.com/Gaining-Insights-Into-Volumetric-Visualization/dp/3659134848/ref=sr_1_1?ie=UTF8&amp;qid=1338002123&amp;sr=8-1)
