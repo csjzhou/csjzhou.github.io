@@ -46,7 +46,11 @@ Email: jianlong.zhou [at] uts.edu.au
 
 <!----
  <div style="width:650px; height:200px; overflow:scroll; overflow-x: hidden; overflow-y: hidden;">
-      <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
+<a href="https://link.springer.com/book/10.1007/978-3-030-72188-6">
+        <img style=" float:center; display:inline"  src="/img/humanity_book.jpg" 
+             title="Humanity Driven AI: Productivity, Well-being, Sustainability and Partnership" 
+             width="120" height="160" alt="tml_book" hspace="5" /></a>      
+<a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
         <img style=" float:center; display:inline"  src="/img/tml_book.jpg" 
              title="Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent" 
              width="120" height="160" alt="tml_book" hspace="5" /></a>
