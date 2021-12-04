@@ -329,7 +329,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 			 <img src="/img/humanity_book.jpg" class="alignleft" alt="tml_book.jpg" width="120" height="160"></a>
 			 <h4>Humanity Driven AI: Productivity, Well-being, Sustainability and Partnership </h4>
 			 <p>
-			  <b>Jianlong Zhou</b> and Fang Chen.<br> 
+			  Fang Chen and <b>Jianlong Zhou</b>.<br> 
 				Springer, 2022. ISBN: 978-3-030-72187-9.<br>
 			    Available on <a href="https://link.springer.com/book/10.1007/978-3-030-72188-6">Springer</a>.
 			  </p>
