@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jianlong Zhou
-subtitle: Senior Lecturer
+subtitle: Associate Professor
 css: "/css/index.css"
 meta-title: "Jianlong Zhou"
 meta-description: "Senior Lecturer at University of Technology Sydney, Australia."
@@ -16,7 +16,7 @@ bigimg:
 ---
 
 **Jianlong Zhou**  
-PhD, Senior Lecturer  
+PhD, Associate Professor  
 IEEE Senior Member   
 ACM Senior Member   
 [UTS Data Science Institute](https://www.uts.edu.au/data-science-institute)  
