@@ -133,6 +133,11 @@ title: Links
 		  <li>Auto-Viz: quickly visualise data.<a href="https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a"> Link</a> </li>
 		<li>AEffective Visualization of Multi-Dimensional Data — A Hands-on Approach.<a href="https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8"> Link</a> </li>
         </ol>
+<h3>Social Media</h3>
+        <ol>
+          <li> Social media data collection: snscrape<a href="https://github.com/JustAnotherArchivist/snscrape"> Link</a> </li>
+        </ol>
+
 <h3>3D Scanner</h3>
         <ol>
 		  <li> The Stanford 3D Scanning Repository<a href="http://graphics.stanford.edu/data/3Dscanrep/"> Link</a> </li> 
