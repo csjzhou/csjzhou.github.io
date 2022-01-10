@@ -42,6 +42,7 @@ title: Links
 		<li>Machine learning for everyone. <a href="https://vas3k.com/blog/machine_learning/"> Link</a></li>
 		<li>Time series forecasting in Python with Facebook Prophet. <a href="https://facebook.github.io/prophet/"> Link</a></li>
 		<li>Time series forecasting in Python (Darts). <a href="https://github.com/unit8co/darts"> Link</a></li>
+		<li>Time series forecasting and clustering. <a href="https://github.com/tinkoff-ai/etna"> Link</a></li>
 		<li>Dive into deep learning. <a href="http://d2l.ai/"> Link</a></li>
 		<li>Darts: time series made easy in Python. <a href="https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878"> Link</a><a href="https://github.com/unit8co/darts"> Link</a></li>
 		<li>Autodata: Automating common data operations. <a href="https://blog.marcua.net/2021/02/07/autodata-automating-common-data-operations.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_324"> Link</a></li>
