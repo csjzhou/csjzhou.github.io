@@ -74,7 +74,9 @@ title: Links
 	  <li> Alibi explain. <a href="https://github.com/SeldonIO/alibi"> Link</a> </li>
 	  <li> Seminar explainable AI 2019. <a href="https://human-centered.ai/seminar-explainable-ai-2019/"> Link</a> </li>	
 	  <li> Responsible-AI-Widgets. <a href="https://github.com/microsoft/responsible-ai-widgets"> Link</a> </li>
+	  <li> (Microsoft) Responsible-AI-Toolbox. <a href="https://github.com/microsoft/responsible-ai-toolbox"> Link</a> </li>
 	  <li> AI Ethics Courses - A Global Perspective. <a href="https://aiethicscourse.org/modules.html?utm_source=data.org&utm_campaign=42596f740c-NEWSLETTER11_10_20_2021&utm_medium=email&utm_term=0_3a748d8cd9-42596f740c-341546113"> Link</a> </li>
+	  <li> (Microsoft) Advancing AI trustworthiness: Updates on responsible AI research. <a href="https://www.microsoft.com/en-us/research/blog/advancing-ai-trustworthiness-updates-on-responsible-ai-research/?OCID=msr_trust_twitter_RAI_2021"> Link</a> </li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
