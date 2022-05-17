@@ -78,6 +78,7 @@ title: Links
 	  <li> AI Ethics Courses - A Global Perspective. <a href="https://aiethicscourse.org/modules.html?utm_source=data.org&utm_campaign=42596f740c-NEWSLETTER11_10_20_2021&utm_medium=email&utm_term=0_3a748d8cd9-42596f740c-341546113"> Link</a> </li>
 	  <li> (Microsoft) Advancing AI trustworthiness: Updates on responsible AI research. <a href="https://www.microsoft.com/en-us/research/blog/advancing-ai-trustworthiness-updates-on-responsible-ai-research/?OCID=msr_trust_twitter_RAI_2021"> Link</a> </li>
 	  <li> Explainer Dashboard. <a href="https://github.com/oegedijk/explainerdashboard"> Link</a> <a href="http://titanicexplainer.herokuapp.com/classifier/"> Link</a></li>
+	  <li> Use SHAP Values for Better Cluster Analysis. <a href="[https://github.com/oegedijk/explainerdashboard](https://www.aidancooper.co.uk/supervised-clustering-shap-values/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387)"> Link</a></li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
