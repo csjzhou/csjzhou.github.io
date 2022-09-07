@@ -80,6 +80,7 @@ title: Links
 	  <li> Explainer Dashboard. <a href="https://github.com/oegedijk/explainerdashboard"> Link</a> <a href="http://titanicexplainer.herokuapp.com/classifier/"> Link</a></li>
 	  <li> Use SHAP Values for Better Cluster Analysis. <a href="https://www.aidancooper.co.uk/supervised-clustering-shap-values/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387"> Link</a></li>
 	  <li> TensorFlow Lattice: Flexible, controlled and interpretable ML. <a href="https://blog.tensorflow.org/2020/02/tensorflow-lattice-flexible-controlled-and-interpretable-ML.html"> Link</a></li>
+	  <li> Rules for the Design of Algorithmic Systems. <a href="https://algorules.org/en/home"> Link</a></li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
