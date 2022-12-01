@@ -105,6 +105,8 @@ title: Links
 		<li> Five Interesting Data Engineering Projects <a href="https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501"> Link</a></li>
 		<li> COVID19-historical-data-visualization <a href="https://github.com/Mistletoer/COVID-19-historical-data-visualization-2019-nCoV-"> Link</a></li>
 		<li> Awesome data labeling<a href="https://github.com/heartexlabs/awesome-data-labeling#readme"> Link</a></li>
+		<li> Name match<a href="https://github.com/urban-labs/namematch"> Link</a></li>
+		<li> Skypilot: an open-source framework for running ML and Data Science batch jobs on any cloud<a href="https://github.com/skypilot-org/skypilot"> Link</a></li>
 	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
