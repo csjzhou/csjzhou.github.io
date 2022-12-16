@@ -202,6 +202,7 @@ title: Links
 		  <li> Open Source Eyetracking: Pupil. <a href="https://pupil-labs.com/pupil/"> Link</a> </li>
 		<li> Export Orcid work to Word doc. <a href="https://aushsi.shinyapps.io/orcid/"> Link</a> </li>
 		<li> SVG repository (free). <a href="https://www.svgrepo.com/"> Link</a> </li>
+		<li> UI design. <a href="https://www.figma.com/design//"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
