@@ -108,6 +108,10 @@ title: Links
 		<li> Name match<a href="https://github.com/urban-labs/namematch"> Link</a></li>
 		<li> Skypilot: an open-source framework for running ML and Data Science batch jobs on any cloud<a href="https://github.com/skypilot-org/skypilot"> Link</a></li>
 	</ol>
+	<h3>AI ethics</h3>
+        <ol>
+          <li> AI Incident Database. <a href="https://incidentdatabase.ai/"> Link</a> </li>
+	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
           <li> Using computer vision techniques in mechanical parts detection and micro-test. <a href="http://www.iai.fzk.de/www-extern/index.php?id=228&amp;L=1"> Link</a> </li>
