@@ -81,6 +81,7 @@ title: Links
 	  <li> Use SHAP Values for Better Cluster Analysis. <a href="https://www.aidancooper.co.uk/supervised-clustering-shap-values/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387"> Link</a></li>
 	  <li> TensorFlow Lattice: Flexible, controlled and interpretable ML. <a href="https://blog.tensorflow.org/2020/02/tensorflow-lattice-flexible-controlled-and-interpretable-ML.html"> Link</a></li>
 	  <li> Rules for the Design of Algorithmic Systems. <a href="https://algorules.org/en/home"> Link</a></li>
+	  <li> AI Incident Database. <a href="https://incidentdatabase.ai/"> Link</a> </li>
 	</ol>
 	<h3>Data Analysis</h3>
         <ol>
@@ -108,9 +109,9 @@ title: Links
 		<li> Name match<a href="https://github.com/urban-labs/namematch"> Link</a></li>
 		<li> Skypilot: an open-source framework for running ML and Data Science batch jobs on any cloud<a href="https://github.com/skypilot-org/skypilot"> Link</a></li>
 	</ol>
-	<h3>AI ethics</h3>
+	<h3>LLMs</h3>
         <ol>
-          <li> AI Incident Database. <a href="https://incidentdatabase.ai/"> Link</a> </li>
+          <li> The Practical Guides for Large Language Models. <a href="https://github.com/Mooler0410/LLMsPracticalGuide"> Link</a> </li>
 	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
