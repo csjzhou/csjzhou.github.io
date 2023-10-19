@@ -209,6 +209,7 @@ title: Links
 		<li> SVG repository (free). <a href="https://www.svgrepo.com/"> Link</a> </li>
 		<li> UI design. <a href="https://www.figma.com/design/"> Link</a> </li>
 		<li> UI elements. <a href="https://www.envato.com/"> Link</a> </li>
+		<li> 20 Python Scripts with Code to Automate Your Work. <a href="https://medium.com/@hannanmentor/20-python-scripts-with-code-to-automate-your-work-68662a8dcbc1"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
