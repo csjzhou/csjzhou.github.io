@@ -210,6 +210,7 @@ title: Links
 		<li> UI design. <a href="https://www.figma.com/design/"> Link</a> </li>
 		<li> UI elements. <a href="https://www.envato.com/"> Link</a> </li>
 		<li> 20 Python Scripts with Code to Automate Your Work. <a href="https://medium.com/@hannanmentor/20-python-scripts-with-code-to-automate-your-work-68662a8dcbc1"> Link</a> </li>
+		<li> Web Scraping With 5 Different Methods: All You Need to Know. <a href="https://heartbeat.comet.ml/web-scraping-with-5-different-methods-all-you-need-to-know-403a59fceea0"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
