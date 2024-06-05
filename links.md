@@ -112,6 +112,7 @@ title: Links
 	<h3>LLMs</h3>
         <ol>
           <li> The Practical Guides for Large Language Models. <a href="https://github.com/Mooler0410/LLMsPracticalGuide"> Link</a> </li>
+	  <li> How to Convert Any Text Into a Graph of Concepts. <a href="https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a"> Link</a> </li>
 	</ol>
   <h3>Image Processing and Computer Vision</h3>
         <ol>
