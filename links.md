@@ -108,6 +108,7 @@ title: Links
 		<li> Awesome data labeling<a href="https://github.com/heartexlabs/awesome-data-labeling#readme"> Link</a></li>
 		<li> Name match<a href="https://github.com/urban-labs/namematch"> Link</a></li>
 		<li> Skypilot: an open-source framework for running ML and Data Science batch jobs on any cloud<a href="https://github.com/skypilot-org/skypilot"> Link</a></li>
+		<li> A Data Scientist’s Essential Guide to Exploratory Data Analysis<a href="https://towardsdatascience.com/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6"> Link</a></li>
 	</ol>
 	<h3>LLMs</h3>
         <ol>
