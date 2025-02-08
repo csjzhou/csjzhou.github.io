@@ -110,6 +110,7 @@ title: Links
 		<li> Skypilot: an open-source framework for running ML and Data Science batch jobs on any cloud<a href="https://github.com/skypilot-org/skypilot"> Link</a></li>
 		<li> A Data Scientist’s Essential Guide to Exploratory Data Analysis<a href="https://towardsdatascience.com/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6"> Link</a></li>
 		<li> Top 25 Python Scripts To Automate Your Daily Tasks<a href="https://medium.com/@haroldfinch01/top-25-python-scripts-to-automate-your-daily-tasks-817330847aa1"> Link</a></li>
+		<li> 10 Python Functions Every Data Scientist Must Memorize<a href="https://medium.com/@yaduvanshineelam09/10-python-functions-every-data-scientist-must-memorize-fc5ff51d6c91"> Link</a></li>
 	</ol>
 	<h3>LLMs</h3>
         <ol>
