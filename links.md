@@ -217,6 +217,7 @@ title: Links
 		<li> Web Scraping With 5 Different Methods: All You Need to Know. <a href="https://heartbeat.comet.ml/web-scraping-with-5-different-methods-all-you-need-to-know-403a59fceea0"> Link</a> </li>
 		<li> Research paper search tool: Research rabbit. <a href="https://researchrabbitapp.com/home"> Link</a> </li>
 		<li> Research paper search tool: Lens. <a href="https://www.lens.org/"> Link</a> </li>
+		<li> Bibtex file tidy. <a href="https://flamingtempura.github.io/bibtex-tidy/"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
