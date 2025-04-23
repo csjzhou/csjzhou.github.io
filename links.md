@@ -218,6 +218,7 @@ title: Links
 		<li> Research paper search tool: Research rabbit. <a href="https://researchrabbitapp.com/home"> Link</a> </li>
 		<li> Research paper search tool: Lens. <a href="https://www.lens.org/"> Link</a> </li>
 		<li> Bibtex file tidy. <a href="https://flamingtempura.github.io/bibtex-tidy/"> Link</a> </li>
+		<li> Smart diagram drawing. <a href="https://smartdiagram.com/"> Link</a> </li>
         </ol>
 		<h3>Resources</h3>
         <ol>
